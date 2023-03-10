@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data.csproj", "{CD3B67D6-AA2B-42DC-A983-891E7C06DE2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "..\Logica\Logic.csproj", "{41192633-717E-4467-9011-90210EDDBA39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "..\Presentation\Presentation.csproj", "{A2A6A51B-F134-46C5-B68F-BF3BB8E521A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD3B67D6-AA2B-42DC-A983-891E7C06DE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3B67D6-AA2B-42DC-A983-891E7C06DE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3B67D6-AA2B-42DC-A983-891E7C06DE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3B67D6-AA2B-42DC-A983-891E7C06DE2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41192633-717E-4467-9011-90210EDDBA39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41192633-717E-4467-9011-90210EDDBA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41192633-717E-4467-9011-90210EDDBA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41192633-717E-4467-9011-90210EDDBA39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A6A51B-F134-46C5-B68F-BF3BB8E521A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A6A51B-F134-46C5-B68F-BF3BB8E521A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A6A51B-F134-46C5-B68F-BF3BB8E521A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A6A51B-F134-46C5-B68F-BF3BB8E521A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1550E590-5FD1-4568-8739-74DC1BFCA53E}
+	EndGlobalSection
+EndGlobal
